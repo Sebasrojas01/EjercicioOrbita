@@ -1,7 +1,6 @@
 # Computación Paralela y Distribuida
 ## Medida de rendimiento Cython/Python: Problema Planeta en Orbita
 - **Ingeniero a Cargo:** Juan Sebastian Rojas Acevedo
-- **Presentado a:** John Jairo Corredor Franco
 
 
 Python es un lenguaje de programación muy utilizado hoy en día, entre otras razones por que es cómodo para programar a alto nivel, tiene muchas librerías y es un código fácilmente mantenible. A pesar de todas estas ventajas, cabe destacar que es notoriamente lento, por lo que es conveniente conocer algunas herramientas que permitan acelerar el código Python.
